@@ -51,7 +51,7 @@ Deploying the application to Heroku with a MongoDB database using MongoDB Atlas.
 ## Usage:
 
 - Open integrated terminal in personal IDE.
-- Run `npm run start` to start server on local port.
+- Run `npm run develop` to start server on local port.
 
 - Application Screenshot:
 
@@ -76,10 +76,7 @@ This project is licensed under Apache License. Click [here](https://github.com/b
 N/A
 
 ## Features:
-- 
-- 
-- 
-- 
+N/A
  
 ## Questions:
 
