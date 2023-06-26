@@ -55,7 +55,9 @@ Deploying the application to Heroku with a MongoDB database using MongoDB Atlas.
 
 - Application Screenshot:
 
-- ![Application Screenshot](/images/BSE-Screenshot1.jpeg) //edit
+- ![Application Screenshot](/images/BSE-Screenshot1.jpeg)
+- ![Application Screenshot](/images/BSE-Screenshot2.jpeg)
+- ![Application Screenshot](/images/BSE-Screenshot3.jpeg)
 
 
 - [Click here to view the Repository URL](https://github.com/bundleofcodes/Mern-Book-Search-Engine)
