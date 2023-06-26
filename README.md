@@ -66,6 +66,10 @@ Deploying the application to Heroku with a MongoDB database using MongoDB Atlas.
 - Raiya Young
 - Georgia Tech Coding Bootcamp
 - Andres Jimenez
+- Youtube.com
+- Clarence Mitchell Jr.
+- Scrimba
+- W3 Schools
 
 ## License:
 
