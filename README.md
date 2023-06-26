@@ -82,7 +82,11 @@ This project is licensed under Apache License. Click [here](https://github.com/b
 N/A
 
 ## Features:
-N/A
+- Sign-up
+- Login
+- Book Search
+- Save Books
+- Remove Books
  
 ## Questions:
 
