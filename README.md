@@ -55,11 +55,11 @@ Deploying the application to Heroku with a MongoDB database using MongoDB Atlas.
 
 - Application Screenshot:
 
-- ![Application Screenshot](/src/components/assets/React-screenshot.jpeg) //edit
+- ![Application Screenshot](/images/BSE-Screenshot1.jpeg) //edit
 
 
-- [Click here to view the Repository URL:](https://github.com/bundleofcodes/Mern-Book-Search-Engine)
-- [Click here to view the Deployed URL:](https://bundleofcodes.github.io/my-react-portfolio/) //edit 
+- [Click here to view the Repository URL](https://github.com/bundleofcodes/Mern-Book-Search-Engine)
+- [Click here to view the Deployed URL](https://bundleofcodes.github.io/my-react-portfolio/) //edit 
 
 ## Credits:
 
