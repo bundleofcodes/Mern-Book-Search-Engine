@@ -61,7 +61,7 @@ Deploying the application to Heroku with a MongoDB database using MongoDB Atlas.
 
 
 - [Click here to view the Repository URL](https://github.com/bundleofcodes/Mern-Book-Search-Engine)
-- [Click here to view the Deployed URL](https://bundleofcodes.github.io/my-react-portfolio/) //edit 
+- [Click here to view the Deployed URL](https://young-lowlands-44571-b7a8f7d70044.herokuapp.com/)
 
 ## Credits:
 
@@ -72,6 +72,8 @@ Deploying the application to Heroku with a MongoDB database using MongoDB Atlas.
 - Clarence Mitchell Jr.
 - Scrimba
 - W3 Schools
+- Constan Fernando
+- Andres Inciarte
 
 ## License:
 
